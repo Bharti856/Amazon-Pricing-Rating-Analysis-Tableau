@@ -41,6 +41,12 @@ This dashboard provides a high-level performance summary.
 
 ### Purpose:
 To understand overall pricing trends and rating distribution across categories.
+---
+
+## 📸 Dashboard Screenshots
+
+### 📊 Dashboard 1 – Pricing & Rating Overview
+![Dashboard 1](Tableu_Dashboard1.jpeg)
 
 ---
 
@@ -54,6 +60,9 @@ This dashboard focuses on analytical relationships between pricing and customer 
 
 ### Purpose:
 To analyze whether discount strategies influence customer satisfaction and rating behavior.
+
+### 📈 Dashboard 2 – Relationship Analysis
+![Dashboard 2](Tableu_Dashboard2.jpeg)
 
 ---
 

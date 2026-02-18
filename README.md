@@ -62,7 +62,7 @@ This dashboard focuses on analytical relationships between pricing and customer 
 To analyze whether discount strategies influence customer satisfaction and rating behavior.
 
 ### 📈 Dashboard 2 – Relationship Analysis
-![Dashboard 2](Tableu_Dashboard2.jpeg)
+![Dashboard 2](TAbleu_Dashboard2.jpeg)
 
 ---
 

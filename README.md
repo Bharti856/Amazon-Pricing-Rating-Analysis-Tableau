@@ -112,7 +112,8 @@ This project demonstrates practical business intelligence application using real
 
 ## 🚀 Future Enhancements
 
-- Add parameter-driven dynamic comparison views  
-- Implement LOD expressions for deeper category-level analysis  
-- Incorporate time-series trend analysis (if date data available)  
-- Extend analysis using SQL or Python for advanced modeling  
+- Add parameter-driven comparison views for dynamic analysis  
+- Implement advanced calculated fields for deeper insights  
+- Incorporate time-based trend analysis (if date data is available)  
+- Extend analysis using SQL or Python for further data exploration  
+

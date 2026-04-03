@@ -1,7 +1,6 @@
 # 📊 Amazon Pricing & Rating Analysis Dashboard (Tableau)
 
-![Dashboard Preview](https://raw.githubusercontent.com/Bharti856/Amazon-Pricing-Rating-Analysis-Tableu/main/Tableu_Dashboard1.jpeg)
-
+![Dashboard 1](Tableu_Dashboard1.jpeg)
 🚀 Analyzed **1,465 Amazon products** to uncover pricing trends, discount strategies, and customer rating behavior.
 
 🔑 **Key Insight:** Higher pricing and discounts do not necessarily lead to better ratings, revealing inefficiencies in pricing strategies.

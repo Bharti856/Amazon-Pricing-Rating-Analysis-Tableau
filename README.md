@@ -22,34 +22,53 @@
 
 ## 📊 Dashboard Overview
 
-### 🔹 Pricing & Rating Overview
+### 🔹 Dashboard 1 – Pricing & Rating Overview
+
+This dashboard provides a **high-level summary of product performance** across categories, focusing on pricing patterns and customer ratings.
+
+**Key Visualizations:**
 - Top 10 Highest Rated Products  
-- Rating Distribution (Binning)  
+- Rating Distribution (Binning Analysis)  
 - Average Discount % by Category  
-- Top Discounted Products  
+- Top Products with Highest Discount Amount (₹)  
 - Product Count by Category  
 
-### 🔹 Relationship Analysis
-- Discount % vs Rating (Scatter Plot)  
-- Review Count vs Rating (100+ reviews filter)  
+**Purpose:**  
+To understand overall pricing trends, discount strategies, and rating distribution across product categories.
+
+---
+
+### 🔹 Dashboard 2 – Relationship Analysis
+
+This dashboard focuses on **analyzing relationships between discounts, review volume, and customer ratings**.
+
+**Key Visualizations:**
+- Discount % vs Average Rating (Scatter Plot)  
+- Review Volume vs Average Rating (Products with 100+ Reviews)  
+
+**Purpose:**  
+To evaluate whether pricing strategies and customer engagement impact product ratings.
+
+**Observation:**  
+No strong correlation observed between discount percentage and product ratings.
 
 ---
 
 ## 📸 Dashboard Screenshots
 
-### Dashboard 1
+### 📊 Dashboard 1 – Pricing & Rating Overview
 ![Dashboard 1](Tableu_Dashboard1.jpeg)
 
-### Dashboard 2
+### 📈 Dashboard 2 – Relationship Analysis
 ![Dashboard 2](TAbleu_Dashboard2.jpeg)
 
 ---
 
 ## 🔎 Key Insights
 
-- Most products fall in the **4.0–4.5 rating range**, showing strong customer satisfaction  
+- Most products fall in the **4.0–4.5 rating range**, indicating strong customer satisfaction  
 - Discounts do **not negatively impact ratings**  
-- Products with high review counts maintain ratings above 4.0 → strong trust factor  
+- Products with high review counts maintain ratings above 4.0, showing strong customer trust  
 - Electronics & Computers dominate product categories  
 - Some products show **₹3000+ discounts**, indicating aggressive pricing strategies  
 
